@@ -1,6 +1,6 @@
 # Database
 ### User Stories:
-* As a user i would like to have a list of Heroes.
+* As a user i would like to have a list of Heros.
 * As a user i would like to have a list of Villains.
 * As a user i would like to see what abilities the heroes and villains have.
 * As a user i would like to see what damage the Heroes have.
