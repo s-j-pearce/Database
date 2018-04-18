@@ -6,7 +6,10 @@
 * As a user i would like to see what damage the Heroes have.
 * As a user i would like to see what damage the Villains have.
 * As a user i would like to see what combined damage the enemies and heroes have with their abilities.
-
+### ERD Design:
+![erd design](https://user-images.githubusercontent.com/31927590/38927921-296ad312-42ff-11e8-808d-7d657d531e26.jpg)
+### Data Dictionary
+![data dictionary](https://user-images.githubusercontent.com/31927590/38928035-7d2ad86c-42ff-11e8-8778-5aefe6833824.PNG)
 ### SQL Code:
 ```
 CREATE TABLE VILLAINS(
