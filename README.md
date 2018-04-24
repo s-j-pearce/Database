@@ -1,11 +1,13 @@
 # Database
 ### User Stories:
-* As a user i would like to have a list of Heros.
-* As a user i would like to have a list of Villains.
-* As a user i would like to see what abilities the heroes and villains have.
-* As a user i would like to see what damage the Heroes have.
-* As a user i would like to see what damage the Villains have.
-* As a user i would like to see what combined damage the enemies and heroes have with their abilities.
+* As a user I would like to have a list of Heros.
+* As a user I would like to have a list of Villains.
+* As a user I would like to see what abilities the heroes and villains have.
+* As a user I would like to see what damage the Heroes have.
+* As a user I would like to see what damage the Villains have.
+* As a user I would like to see what combined damage the enemies and heroes have with their abilities.
+### Tools and Techniques:
+
 ### ERD Design:
 ![erd design](https://user-images.githubusercontent.com/31927590/38927921-296ad312-42ff-11e8-808d-7d657d531e26.jpg)
 ### Data Dictionary
