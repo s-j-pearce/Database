@@ -246,5 +246,7 @@ SELECT MAX(H.DAMAGE), MIN(H.DAMAGE) FROM HEROS H;
 
 SELECT MAX(V.DAMAGE), MIN(V.DAMAGE) FROM VILLAINS V;
 ```
-### 
+### Test plan:
+![test plan](https://user-images.githubusercontent.com/31927590/39263036-013bbbee-48b9-11e8-88b4-7b19599b9d78.PNG)
+
 
