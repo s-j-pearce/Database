@@ -18,9 +18,12 @@
 ### Validation:
 
 ### Forms evidence:
-
+![hero form evidence](https://user-images.githubusercontent.com/31927590/39238919-63cfe326-4877-11e8-8dc1-a08ed692abf7.PNG)
+![villain form evidence](https://user-images.githubusercontent.com/31927590/39238929-6d5873ae-4877-11e8-85a0-4a275a79392e.PNG)
+![ability form evidence](https://user-images.githubusercontent.com/31927590/39238950-7c90805a-4877-11e8-95fb-2e50ce56e6fd.PNG)
 ### Reports evidence:
-
+![hero s report evidence](https://user-images.githubusercontent.com/31927590/39238964-879fcba4-4877-11e8-84b2-f4a8075eddd0.PNG)
+![villains report evidence](https://user-images.githubusercontent.com/31927590/39238977-916e07e0-4877-11e8-8171-da2e8714cc4d.PNG)
 
 ---
 
