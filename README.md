@@ -13,6 +13,7 @@
 ### Data Dictionary
 ![data dictionary](https://user-images.githubusercontent.com/31927590/38928035-7d2ad86c-42ff-11e8-8778-5aefe6833824.PNG)
 ### SQL Code:
+The code below is the SQL code that i wrote in order to create and fill my database:
 ```
 CREATE TABLE VILLAINS(
      ID INT NOT NULL PRIMARY KEY,
@@ -222,3 +223,5 @@ SELECT MAX(H.DAMAGE), MIN(H.DAMAGE) FROM HEROS H;
 
 SELECT MAX(V.DAMAGE), MIN(V.DAMAGE) FROM VILLAINS V;
 ```
+### Validation:
+
