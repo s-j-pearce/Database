@@ -6,7 +6,6 @@
 * As a user I would like to see what damage the Heroes have.
 * As a user I would like to see what damage the Villains have.
 * As a user I would like to see what combined damage the enemies and heroes have with their abilities.
-### Tools and Techniques:
 
 ### ERD Design:
 ![erd design](https://user-images.githubusercontent.com/31927590/38927921-296ad312-42ff-11e8-808d-7d657d531e26.jpg)
