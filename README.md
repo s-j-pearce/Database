@@ -282,7 +282,9 @@ Risks can be managed and prevented very simply by creating contingencies. Some w
 * We made multiple saves for the database to fall back on if anything went wrong.
 #### Design decisions
 The overall design and how I wanted the database to be designed was all organised in the planning phase of the project. I started the design knowing that I will be creating a database for marvel characters which would include the characters and their abilities. I know from the planning stage that I would be separating the characters and abilities into completely separate tables so that they can be connected and called upon later. 
+
 I started the design phase by creating an ERD. This ERD would help me to figure out the overall layout so that I would know what information to put in each table. The ERD also helped to establish the validations for each of the tables. The ERD may also come in handy later on when we begin to test the database. We will be able to check to make sure the relationships connect as intended. I used the user requirements to help build the ERD to make sure it fitted the requested design.
+
 For the database I needed to make sure that it was able to hold all the data that was required for it. To start only a limited number of records were implemented to make sure it all linked together correctly and showed the data as coded. I started by making 5 tables which all held different sets of information within the records. Once all the tables were completed and set up, I then created the forms which would then bring the records from multiple tables together to show a deeper detailed version. The forms are the main thing that people are going to see as they pull all of the important information from each table to come together into an updated clear to understand form.
 #### tools used:
 * Microsoft Excel – Used to create the data dictionary and Test Plan
